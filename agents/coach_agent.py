@@ -824,7 +824,6 @@ __all__ = [
     
     # Chat functions
     "chat_with_coach",
-    "chat_with_coach_debug",
     "quick_chat",
     "handle_chat",
     
